@@ -1,0 +1,45 @@
+.App {
+  /* text-align: center;
+  display: grid;
+  grid-template-columns: 1fr 1 fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr; 
+  margin: 20px;*/
+  background-color: bisque;
+}
+
+td{
+  padding: 20px;
+  /* background-color: black; */
+  background: transparent;
+  border: 1px solid ;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+
+#main-container{
+  font-size: 30px;
+  width: 300px;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw5_bXWpoN__86PCSD8p9nC8lj606mnN2ijw&usqp=CAU);
+  background-size: cover;
+  margin: 15px 500px 0px 500px;  
+}
+
+input{
+  padding: 10px;
+  text-align: end;
+  font-size: 30px;
+  /* margin: 15px 5px 0px 550px; */
+  width: 277px;
+  background: transparent;
+  color: white;
+  border:none;
+
+}
+
+table{
+  /* margin: 0px 5px 0px 550px; */
+  text-align: center;
+  width: 300px;
+  background: transparent;
+}
